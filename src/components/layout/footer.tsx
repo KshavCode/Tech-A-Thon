@@ -133,25 +133,25 @@ export default function TechAthonFooter() {
             </h3>
             <nav className="flex flex-col gap-2">
               <CustomLink
-                href="#about"
+                href="/about"
                 className="text-sm text-muted-foreground transition-colors hover:text-primary font-mono"
               >
                 About Us
               </CustomLink>
               <CustomLink
-                href="#team"
+                href="/team"
                 className="text-sm text-muted-foreground transition-colors hover:text-primary font-mono"
               >
                 Our Team
               </CustomLink>
               <CustomLink
-                href="#gallery"
+                href="/gallery"
                 className="text-sm text-muted-foreground transition-colors hover:text-primary font-mono"
               >
                 Gallery
               </CustomLink>
               <CustomLink
-                href="#contact"
+                href="/contact"
                 className="text-sm text-muted-foreground transition-colors hover:text-primary font-mono"
               >
                 Contact
