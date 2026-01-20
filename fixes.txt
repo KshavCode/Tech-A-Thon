@@ -1,1 +1,2 @@
 1. All footer links are redirecting + Login League group has been added
+2. Animation of Timeline events in the about
